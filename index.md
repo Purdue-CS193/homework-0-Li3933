@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Andrew's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,13 +7,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Doot doot doot
 
-### Facts (true!)
+### Facts (_true!_)
 -I like pie
 
 -Puddles is my cat
 ![My cat](C:/Users/wli_h/OneDrive/Pictures/Camera Roll/IMG_2424.jpg)
 
 -dogs are stinky
+
+### Facts about CS 193 (_potentially true_)
+- Small time commitment
+- Teaches useful knowledge and skills on how to naviagte your computer
+- no quizzes
 
 ### Markdown
 
