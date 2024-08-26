@@ -11,7 +11,7 @@ Doot doot doot
 -I like pie
 
 -Puddles is my cat
-![My cat](C:\Users\wli_h\OneDrive\Pictures\Camera Roll\IMG_2424.jpg)
+![My cat](files://C:\Users\wli_h\OneDrive\Pictures\Camera Roll\IMG_2424.jpg)
 
 -dogs are stinky
 
